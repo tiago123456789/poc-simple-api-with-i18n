@@ -5,11 +5,11 @@ class Email {
 
     constructor() {
         this.transport = nodemailer.createTransport({
-            host: "smtp.mailtrap.io",
-            port: 2525,
+            host: process.env.SMTP_HOST,
+            port: process.env.SMTP_PORT,
             auth: {
-                user: "1a6a3b83aecf2b",
-                pass: "5854ccc5617e81"
+                user: process.env.SMTP_USER,
+                pass: process.env.SMTP_PASS
             }
         });
         this.subject;
