@@ -1,0 +1,19 @@
+{
+	"unauthorizated": "You don't have authorization to perform this action",
+	"name.required": "Name is required",
+	"email.required": "Email is required",
+	"password.required": "Password is required",
+	"credentials.required": "Email and password are required",
+	"hi_world": "Hi, world!!!",
+	"You have %s message": {
+		"one": "You have one message",
+		"other": "You have %s messages"
+	},
+	"welcome": "Welcome!!!",
+	"welcome.message": "Thank you for signing up.",
+	"email.buttonText": "Access Youtube",
+	"footer.message": "You received this email because we received a request for [type_of_action] for your account. If you didn't request [type_of_action] you can safely delete this email.",
+	"footer.unsubscribe": "<p style=\"margin: 0;\">To stop receiving these emails, you can copy link https://www.youtube.com/ to unsubscribe at any time.</p>",
+	"Hello": "Hello",
+	"button.text": "Access youtube"
+}

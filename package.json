@@ -1,0 +1,23 @@
+{
+  "name": "poc-send-email-html-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/node": "^6.15.0",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "i18n": "^0.13.3",
+    "jsonwebtoken": "^8.5.1",
+    "moment-timezone": "^0.5.34",
+    "node-schedule": "^2.0.0",
+    "nodemailer": "^6.7.2"
+  }
+}

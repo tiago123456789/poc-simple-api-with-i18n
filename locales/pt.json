@@ -1,0 +1,18 @@
+{
+    "unauthorizated": "Você não tem autorização para executar essa ação",
+    "name.required": "Nome é obrigatório",
+	"email.required": "Email é obrigatório",
+    "password.required": "Senha é obrigatório",
+    "credentials.required": "Email e password são obrigatórios",
+    "hi_world": "Olá mundo!!!",
+    "You have %s message": {
+		"one": "Você tem uma mensagem",
+		"other": "Você tem %s mensagens"
+	},
+    "button.text": "Acesse o youtube",
+    "welcome": "Bem vindo",
+    "welcome.message": "Obrigado por se cadastrar",
+    "email.buttonText": "Acessar Youtube",
+    "footer.message": "Você recebeu esse email porque nós recebemos um pedido para [type_of_action] para sua conta. Se você não pediu [type_of_action] você pode deletar esse email.",
+	"footer.unsubscribe": "<p style=\"margin: 0;\">Para parar de receber esse email, você pode copiar o link https://www.youtube.com/ a qualquer momento.</p>"
+}
